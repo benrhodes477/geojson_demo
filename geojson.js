@@ -6,8 +6,7 @@
 //
 //    See example below:
 
-var json =
-{
+var json = {
   "type": "FeatureCollection",
   "features": [
     {
