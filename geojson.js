@@ -6,8 +6,7 @@
 //
 //    See example below:
 
-var json = 
-    {
+var json = {
   "type": "FeatureCollection",
   "features": [
     {
@@ -217,5 +216,23 @@ var json =
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.70063018798828,
+          40.81626954070189
+        ]
+      }
     }
   ]
+}
+   
