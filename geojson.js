@@ -185,7 +185,7 @@ var json = {
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fafafa",
         "fill-opacity": 0.5,
         "title": "Area of Focus"
       },
@@ -216,23 +216,6 @@ var json = {
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "test"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.70063018798828,
-          40.81626954070189
-        ]
-      }
     }
   ]
 }
-   
